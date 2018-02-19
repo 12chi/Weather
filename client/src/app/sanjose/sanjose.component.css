@@ -1,0 +1,31 @@
+.wrapper {
+    border: 1px solid black;
+    width: 700px;
+    margin-left: 75px;
+}
+.header {
+    text-align: center;
+}
+.main {
+    display: inline-block;
+    vertical-align: top;
+    padding-bottom: 20px;
+}
+.info {
+    width: 300px;
+    padding: 10px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 20px;
+    padding-top: 40px;
+}
+.img {
+    width: 250px;
+    height: 180px;
+    padding: 5px;
+    display: inline-block;
+    vertical-align: top;
+}
+p {
+    margin: 5px;
+}
